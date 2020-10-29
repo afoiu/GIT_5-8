@@ -15,5 +15,9 @@ public class Main {
         sum(5,7,3);
         Main test = new Main();
         test.PrintSting("Changes on branch 1");
+
+        System.out.println("1st commit on Branch3");
+        System.out.println("2nd commit on Branch3");
+        System.out.println("3rd commit on Branch3");
     }
 }
